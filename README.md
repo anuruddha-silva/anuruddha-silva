@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on SignUp Software AB **Exflow Web**
 
-- 🌱 I’m currently learning **Vue.js Asp.net core**
+- 🌱 I’m currently learning **Vue.js, .net core, Azure **
 
 - 👯 I’m looking to collaborate on **.Net Core**
 
