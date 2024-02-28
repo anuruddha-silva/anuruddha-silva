@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Vue.js .net core Azure** 
 
-- 👯 I’m looking to collaborate on **.Net Core vue.js**
+- 👯 I’m looking to collaborate on **Vue.js .net core Azure** 
 
-- 💬 Ask me about **vue.js, C#, .Net Core, Azure**
+- 💬 Ask me about **Vue.js .net core Azure** 
 
 - 📫 How to reach me **contactanuruddha@gmail.com**
 
