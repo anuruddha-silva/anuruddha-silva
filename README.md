@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anuruddha</h1>
 <h3 align="center">A passionate fullstack developer from Sweden</h3>
 
+<h1 align="left"> As an Application Developer at SignUp Software, a leading provider of cloud-based business solutions, I work with a team of talented engineers to design, develop, and deploy secure and scalable web applications using .NET Core, C#, vue.js, Azure, and other cutting-edge technologies. I have contributed to multiple projects, including a large contract with a government agency, where I implemented web services API, authentication, and encryption features, and improved the performance and reliability of the application by 30%.
+
+I am also pursuing a Master's degree in Computer and Information Systems Security/Information Assurance at Örebro University, where I am expanding my knowledge and skills in Informations Systems, data protection, and risk management. I am passionate about learning new technologies and best practices, and applying them to real-world problems. My goal is to become a expert fullstack developer </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuruddhasilva&label=Profile%20views&color=0e75b6&style=flat" alt="anuruddhasilva" /> </p>
 
 - 🔭 I’m currently working on SignUp Software AB **Exflow Web**
