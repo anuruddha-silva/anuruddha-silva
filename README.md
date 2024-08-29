@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Vue.js .Net Core Azure**
 
-- 🤝 I’m looking for help with **Vue.js .Net Core Azure**
-
 - 💬 Ask me about **Vue.js .Net Core Azure**
 
 - 📫 How to reach me **contactanuruddha@gmail.com**
