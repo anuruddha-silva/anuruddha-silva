@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Exflow**
 
-- 🌱 I’m currently working with **Vue.js .Net Core Azure Azure**
+- 🌱 I’m currently working with **Vue.js .Net Core Azure**
 
 - 👯 I’m looking to collaborate on **Vue.js .Net Core Azure**
 
