@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuruddha-silva&label=Profile%20views&color=0e75b6&style=flat" alt="anuruddha-silva" /> </p>
 
-- 🔭 I’m currently working on **Exflow**
-
 - 🌱 I’m currently working with **Vue.js .Net Core Azure**
 
 - 👯 I’m looking to collaborate on **Vue.js .Net Core Azure**
